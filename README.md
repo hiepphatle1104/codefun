@@ -1,9 +1,7 @@
-# simple go logger
+# utils for local projects
 
 ## Usage
 
 ```bash
-
-go get github.com/hiepphatle1104/go-logger
-
+go get github.com/hiepphatle1104/go-utils@v1.0.0
 ```
